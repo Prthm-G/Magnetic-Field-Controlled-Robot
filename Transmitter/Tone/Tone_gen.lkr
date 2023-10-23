@@ -1,0 +1,8 @@
+path=C:\Users\241pr\OneDrive - UBC\Desktop\Apps\UBC\ELEC 291\CrossIDE\Call51\Bin\..\lib\small
+lib=libc51.lib
+lib=libint.lib
+lib=liblong.lib
+lib=libfloat.lib
+obj=Tone_gen.obj
+obj=Startup.obj
+obj=lcd2.obj
